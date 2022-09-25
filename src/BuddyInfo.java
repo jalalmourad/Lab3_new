@@ -2,6 +2,7 @@ import java.util.ArrayList;
 
 public class BuddyInfo {
     private int jalal;
+    private int nono;
     private String name;
     private Integer phonenumber;
     private String address;
