@@ -2,7 +2,7 @@ import java.util.*;
 public class AddressBook {
 
     ArrayList<BuddyInfo> buddylist;
-
+    private int ja;
     public AddressBook(){
 
         buddylist = new ArrayList<BuddyInfo>();
